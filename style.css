@@ -1,0 +1,73 @@
+*{
+    color: darkslategrey;
+    font-family:  Arial, sans-serif;
+    font-size: 17px;
+}
+h1{
+    color: darkblue;
+    font-size: 30px;
+    
+}
+.text-center{
+    text-align: center;
+}
+h2{
+    font-size: 24px;
+    background-color: lightskyblue;
+    color: white, lightskyblue;
+}
+a{
+    color:darkblue;
+    text-decoration: none;
+}
+a:visited{
+    color: darkblue;
+    text-decoration: none;
+}
+
+a:hover{
+    cursor: pointer;
+    color: darkblue;
+    text-decoration: underline;
+}
+h1 a:hover{
+    cursor: pointer;
+    color: darkblue;
+}
+h2 a:hover{
+    cursor:pointer;
+    color: darkblue;
+}
+h1 a:visited{
+    color:white;
+    
+}
+h2 a:visited{
+    color:white;
+    color: lightskyblue;
+}
+#sumario{
+    color: darkblue;
+}
+#endereco{
+    color:darkblue;
+}
+#experiencia{
+    color:darkblue;
+}
+#habilidades{
+    color: darkblue;
+}
+#formacao{
+    color: darkblue;
+}
+#copyright{
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+
+
+
